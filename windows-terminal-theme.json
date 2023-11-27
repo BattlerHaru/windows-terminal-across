@@ -1,0 +1,23 @@
+{
+  "background": "#1A1823",
+  "black": "#666977",
+  "blue": "#48B6ED",
+  "brightBlack": "#686868",
+  "brightBlue": "#51D8E4",
+  "brightCyan": "#8DEEEE",
+  "brightGreen": "#4EF2A3",
+  "brightPurple": "#CE76D8",
+  "brightRed": "#EE6B6B",
+  "brightWhite": "#FFFFFF",
+  "brightYellow": "#E7EF7C",
+  "cursorColor": "#FFFFFF",
+  "cyan": "#78DDF1",
+  "foreground": "#D287FB",
+  "green": "#3CCA5F",
+  "name": "battler",
+  "purple": "#CB52F0",
+  "red": "#E24A4A",
+  "selectionBackground": "#B54CF6",
+  "white": "#F5F5F5",
+  "yellow": "#EADF69"
+}
